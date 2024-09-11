@@ -3,7 +3,7 @@
 <img src="https://external.fcpv20-1.fna.fbcdn.net/emg1/v/t13/1387835776009368808?stp=dst-src&url=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTA1NzQyMTNjb3RleHZjZjFqcGQxOXdrM3RjOTZtNnowMmVrbThhaHdiZDlnZ2dtYiZlcD12MV9naWZzX2dpZklkJmN0PWc%2Fs6qIhoiPgxBba9L7BU%2F200.gif&utld=giphy.com&ccb=13-1&oh=06_Q3993IgabtE2MjwJOISrVTML_tXFMRTeMkP9wSDBWjCvxDQ&oe=66E3BA8A&_nc_sid=1d65fc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 :frowning_man: I'm Rudá and.. <br>
-:telescope:	I'm a researcher with a degree in Mechanical Engineering and a PhD in Materials Engineering who... <br>
+:telescope:	I'm a researcher with a degree in Mechanical Engineering and PhD in Materials Engineering who... <br>
 :heart: loves Data Science and teaching... <br>
 👨‍🎓 currently learning how to be a Data Scientist... <br>
 ⚡ Fun fact: I have a 3D printer where I make a lot of things that I don't need. 😄
